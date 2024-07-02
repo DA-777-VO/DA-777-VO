@@ -1,8 +1,9 @@
 ## Hi 👋
 
-- 🔭 My main specialization is Web Development (Node.js and JavaScript)
-- 👯 Languages: JavaScript, C++, Java
-- 🌱 I am also interested in linux
+- 😎 My main specialization is Web Development (Node.js and JavaScript)
+- ⚡ Languages: JavaScript, C++, Java
+- 💻 I am interested in Linux
+- 
 <!--
 **DA-777-VO/DA-777-VO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
